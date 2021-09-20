@@ -18,9 +18,7 @@ NOTEBOOKS=(
 	"FullyConnectedNets.ipynb"
 	"BatchNormalization.ipynb"
 	"Dropout.ipynb"
-	"ConvolutionalNetworks.ipynb"
 	"PyTorch.ipynb"
-	"TensorFlow.ipynb"
 )
 
 FILES=( "${CODE[@]}" "${NOTEBOOKS[@]}" )
